@@ -2,3 +2,6 @@
 创建分支，并在分之上修改文件
 在dev中添加该行
 master and dev
+master & dev
+解决冲突
+
