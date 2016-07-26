@@ -1,7 +1,13 @@
 把第一行信息同步到远程
 创建分支，并在分之上修改文件
+<<<<<<< HEAD
 在dev中添加该行
 master and dev
 master & dev
 解决冲突
+=======
+多人协作，E盘修改test.txt文件
+多人协作，D盘修改test.txt文件
+冲突解决
+>>>>>>> dev
 
